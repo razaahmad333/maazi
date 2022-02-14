@@ -5,4 +5,7 @@ const dinosour = [
   {
     name: "Tyrannosaurus Rex",
   },
+  {
+    name: "Velociraptor",
+  },
 ];
