@@ -8,4 +8,7 @@ const dinosour = [
   {
     name: "Velociraptor",
   },
+  {
+    name: "Stegosaurus",
+  },
 ];
