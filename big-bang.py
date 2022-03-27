@@ -13,3 +13,14 @@ causer = getWhoCause()
 causer = getWhoCause()
 
 celestials = "they aare new at 2/1/1/1"
+def getWhatHappened():
+    return 'A big bang'
+whatHappened = getWhatHappened()
+
+def getStars():
+    return 'The stars'
+star1 = 'any star1'
+star2 = 'any star2'
+star3 = 'any star3'
+star4 = 'any star4'
+star5 = 'any star5'
