@@ -11,3 +11,9 @@ the history
 3. First Humanoid
 
 4. Ice Age
+
+5. Jurassic
+
+6. Extinction
+
+7. End
