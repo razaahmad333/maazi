@@ -15,20 +15,26 @@ const aliens = [
     {
         name: 'Alien 3',
         color: 'blue',
-        points: 30
+        points: 30,
+        weapon: 'blaster',
+
     },
     {
         name: 'Alien 4',
         color: 'yellow',
-        points: 40
+        points: 40,
+        weapon: 'blaster',
+
     },
     {
         name: 'Alien 5',
-        color: 'purple blue violet',
-        points: 50
-    }
-    
+        color: 'orange',
+        points: 50,
+        weapon: 'blaster',
+
+    },
 ]
+
 
 const powerizer = (alien) => {
     return {
@@ -36,4 +42,6 @@ const powerizer = (alien) => {
         points: alien.points * 2
     }
 }
+
+
 
