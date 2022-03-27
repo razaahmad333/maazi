@@ -4,10 +4,10 @@ the history
 
 ## contents
 
-Big Bang
+1. Big Bang
 
-Dinosour Age
+2. Dinosour Age
 
-First Humanoid
+3. First Humanoid
 
-Ice Age
+4. Ice Age
