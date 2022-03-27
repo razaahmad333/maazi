@@ -24,3 +24,5 @@ star2 = 'any star2'
 star3 = 'any star3'
 star4 = 'any star4'
 star5 = 'any star5'
+
+star6 = 'any star6'
