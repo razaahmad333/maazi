@@ -2,12 +2,15 @@ const aliens = [
     {
         name: 'Alien 1',
         color: 'red',
-        points: 10
+        points: 10,
+        weapon: 'blaster',
     },
     {
         name: 'Alien 2',
         color: 'green',
-        points: 20
+        points: 20,
+        weapon: 'blaster',
+
     },
     {
         name: 'Alien 3',
