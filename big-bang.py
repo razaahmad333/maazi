@@ -9,3 +9,9 @@ def getWhoCause():
 causer = getWhoCause()
 
 
+def getWhatHappened():
+    return 'A big bang'
+whatHappened = getWhatHappened()
+
+def getStars():
+    return 'The stars'
