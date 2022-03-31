@@ -33,18 +33,24 @@ const aliens = [
         weapon: 'blaster',
 
     },
+    {
+        name: "Alien 6",
+        color: "purple",
+        points: 39,
+        weapon: 'teeth'
+    }
 ]
 
 
 const powerizer = (alien) => {
     return {
         ...alien,
-        color:getColorForAlien( alien.points*2),
+        color: getColorForAlien(alien.points * 2),
         points: alien.points * 2
     }
 }
 
-const getColorForAlien = ( points) => {
+const getColorForAlien = (points) => {
     if (points <= 10) {
         return 'red'
     } else if (points <= 20) {
