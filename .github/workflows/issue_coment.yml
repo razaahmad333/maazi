@@ -1,5 +1,5 @@
 name: Issue Comment workflow
-on: issue_comment
+on: [issue_comment]
 
 jobs:
   issue_commented_on_maazi:
