@@ -67,5 +67,5 @@ const getColorForAlien = (points) => {
 }
 
 const destroyEnemy = () => {
-    return 'no sorry we dont do here';
+    return 'no sorry we dont do here and you guys we dont know you';
 }
